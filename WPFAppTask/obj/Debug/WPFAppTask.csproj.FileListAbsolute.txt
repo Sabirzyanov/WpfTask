@@ -1,0 +1,17 @@
+C:\Programming\C#\WPFAppTask\WPFAppTask\bin\Debug\WPFAppTask.exe.config
+C:\Programming\C#\WPFAppTask\WPFAppTask\bin\Debug\WPFAppTask.exe
+C:\Programming\C#\WPFAppTask\WPFAppTask\bin\Debug\WPFAppTask.pdb
+C:\Programming\C#\WPFAppTask\WPFAppTask\obj\Debug\WPFAppTask.csproj.AssemblyReference.cache
+C:\Programming\C#\WPFAppTask\WPFAppTask\obj\Debug\WPFAppTask.csproj.SuggestedBindingRedirects.cache
+C:\Programming\C#\WPFAppTask\WPFAppTask\obj\Debug\MainWindow.g.cs
+C:\Programming\C#\WPFAppTask\WPFAppTask\obj\Debug\App.g.cs
+C:\Programming\C#\WPFAppTask\WPFAppTask\obj\Debug\WPFAppTask_MarkupCompile.cache
+C:\Programming\C#\WPFAppTask\WPFAppTask\obj\Debug\WPFAppTask_MarkupCompile.lref
+C:\Programming\C#\WPFAppTask\WPFAppTask\obj\Debug\App.baml
+C:\Programming\C#\WPFAppTask\WPFAppTask\obj\Debug\MainWindow.baml
+C:\Programming\C#\WPFAppTask\WPFAppTask\obj\Debug\WPFAppTask.g.resources
+C:\Programming\C#\WPFAppTask\WPFAppTask\obj\Debug\WPFAppTask.Properties.Resources.resources
+C:\Programming\C#\WPFAppTask\WPFAppTask\obj\Debug\WPFAppTask.csproj.GenerateResource.cache
+C:\Programming\C#\WPFAppTask\WPFAppTask\obj\Debug\WPFAppTask.csproj.CoreCompileInputs.cache
+C:\Programming\C#\WPFAppTask\WPFAppTask\obj\Debug\WPFAppTask.exe
+C:\Programming\C#\WPFAppTask\WPFAppTask\obj\Debug\WPFAppTask.pdb
